@@ -1,0 +1,359 @@
+[
+  {
+    "etunimi": "Irene",
+    "sukunimi": "Turenius",
+    "puolue": "KESK",
+    "aanimaara": 440,
+    "vertailuluku": 8853.0
+  },
+  {
+    "etunimi": "Pertti",
+    "sukunimi": "M�ki-Hakola",
+    "puolue": "KOK",
+    "aanimaara": 488,
+    "vertailuluku": 7877.0
+  },
+  {
+    "etunimi": "Seppo",
+    "sukunimi": "Perki�",
+    "puolue": "SDP",
+    "aanimaara": 360,
+    "vertailuluku": 4490.0
+  },
+  {
+    "etunimi": "Markku",
+    "sukunimi": "Tuppurainen",
+    "puolue": "KESK",
+    "aanimaara": 419,
+    "vertailuluku": 4426.5
+  },
+  {
+    "etunimi": "Raimo",
+    "sukunimi": "Ristil�",
+    "puolue": "KOK",
+    "aanimaara": 468,
+    "vertailuluku": 3938.5
+  },
+  {
+    "etunimi": "Jukka",
+    "sukunimi": "Vihri�l�",
+    "puolue": "KESK",
+    "aanimaara": 399,
+    "vertailuluku": 2951.0
+  },
+  {
+    "etunimi": "Paula",
+    "sukunimi": "Risikko",
+    "puolue": "KOK",
+    "aanimaara": 457,
+    "vertailuluku": 2625.6666666666665
+  },
+  {
+    "etunimi": "Jaakko",
+    "sukunimi": "Lepist�",
+    "puolue": "SDP",
+    "aanimaara": 352,
+    "vertailuluku": 2245.0
+  },
+  {
+    "etunimi": "Aaro",
+    "sukunimi": "Harjunp��",
+    "puolue": "KESK",
+    "aanimaara": 371,
+    "vertailuluku": 2213.25
+  },
+  {
+    "etunimi": "Kimmo",
+    "sukunimi": "Heinonen",
+    "puolue": "KOK",
+    "aanimaara": 337,
+    "vertailuluku": 1969.25
+  },
+  {
+    "etunimi": "Jorma",
+    "sukunimi": "Kivim�ki",
+    "puolue": "KESK",
+    "aanimaara": 319,
+    "vertailuluku": 1770.6
+  },
+  {
+    "etunimi": "Mikko",
+    "sukunimi": "Ala-Lahti",
+    "puolue": "KOK",
+    "aanimaara": 296,
+    "vertailuluku": 1575.4
+  },
+  {
+    "etunimi": "Harry",
+    "sukunimi": "Wallin",
+    "puolue": "SDP",
+    "aanimaara": 287,
+    "vertailuluku": 1496.6666666666667
+  },
+  {
+    "etunimi": "Pirjo",
+    "sukunimi": "Aittoniemi",
+    "puolue": "KESK",
+    "aanimaara": 280,
+    "vertailuluku": 1475.5
+  },
+  {
+    "etunimi": "Tiina",
+    "sukunimi": "Per�",
+    "puolue": "KOK",
+    "aanimaara": 247,
+    "vertailuluku": 1312.8333333333333
+  },
+  {
+    "etunimi": "Kati",
+    "sukunimi": "Nummensalo",
+    "puolue": "KD",
+    "aanimaara": 169,
+    "vertailuluku": 1274.0
+  },
+  {
+    "etunimi": "Kari",
+    "sukunimi": "Homi",
+    "puolue": "KESK",
+    "aanimaara": 265,
+    "vertailuluku": 1264.7142857142858
+  },
+  {
+    "etunimi": "Alpo",
+    "sukunimi": "Kitinoja",
+    "puolue": "KOK",
+    "aanimaara": 223,
+    "vertailuluku": 1125.2857142857142
+  },
+  {
+    "etunimi": "Riitta",
+    "sukunimi": "Lehtola",
+    "puolue": "SDP",
+    "aanimaara": 204,
+    "vertailuluku": 1122.5
+  },
+  {
+    "etunimi": "Juha",
+    "sukunimi": "Konttas",
+    "puolue": "KESK",
+    "aanimaara": 240,
+    "vertailuluku": 1106.625
+  },
+  {
+    "etunimi": "Anneli",
+    "sukunimi": "Manninen",
+    "puolue": "PS",
+    "aanimaara": 253,
+    "vertailuluku": 1064.0
+  },
+  {
+    "etunimi": "Kalle",
+    "sukunimi": "Keskinen",
+    "puolue": "KOK",
+    "aanimaara": 192,
+    "vertailuluku": 984.625
+  },
+  {
+    "etunimi": "Jarmo",
+    "sukunimi": "Korhonen",
+    "puolue": "KESK",
+    "aanimaara": 234,
+    "vertailuluku": 983.6666666666666
+  },
+  {
+    "etunimi": "Leena",
+    "sukunimi": "Riikil�",
+    "puolue": "SDP",
+    "aanimaara": 188,
+    "vertailuluku": 898.0
+  },
+  {
+    "etunimi": "Minna",
+    "sukunimi": "Julmala",
+    "puolue": "KESK",
+    "aanimaara": 227,
+    "vertailuluku": 885.3
+  },
+  {
+    "etunimi": "Anne-Mari",
+    "sukunimi": "Haapala",
+    "puolue": "MUUT",
+    "aanimaara": 265,
+    "vertailuluku": 880.0
+  },
+  {
+    "etunimi": "Heikki",
+    "sukunimi": "Keskinen",
+    "puolue": "KOK",
+    "aanimaara": 179,
+    "vertailuluku": 875.2222222222222
+  },
+  {
+    "etunimi": "Juha",
+    "sukunimi": "Koivisto",
+    "puolue": "VIHR",
+    "aanimaara": 189,
+    "vertailuluku": 805.0
+  },
+  {
+    "etunimi": "Markku",
+    "sukunimi": "Lahtinen",
+    "puolue": "KESK",
+    "aanimaara": 215,
+    "vertailuluku": 804.8181818181819
+  },
+  {
+    "etunimi": "Ilmari",
+    "sukunimi": "Yl�-Autio",
+    "puolue": "KOK",
+    "aanimaara": 178,
+    "vertailuluku": 787.7
+  },
+  {
+    "etunimi": "Aarne",
+    "sukunimi": "Heikkil�",
+    "puolue": "SDP",
+    "aanimaara": 179,
+    "vertailuluku": 748.3333333333334
+  },
+  {
+    "etunimi": "Kari",
+    "sukunimi": "Hokkanen",
+    "puolue": "KESK",
+    "aanimaara": 212,
+    "vertailuluku": 737.75
+  },
+  {
+    "etunimi": "Tero",
+    "sukunimi": "Juonoja",
+    "puolue": "KOK",
+    "aanimaara": 177,
+    "vertailuluku": 716.0909090909091
+  },
+  {
+    "etunimi": "Mikael",
+    "sukunimi": "Luotola",
+    "puolue": "KESK",
+    "aanimaara": 212,
+    "vertailuluku": 681.0
+  },
+  {
+    "etunimi": "Matti",
+    "sukunimi": "Kuvaja",
+    "puolue": "KOK",
+    "aanimaara": 172,
+    "vertailuluku": 656.4166666666666
+  },
+  {
+    "etunimi": "Helena",
+    "sukunimi": "Koivusaari",
+    "puolue": "SDP",
+    "aanimaara": 164,
+    "vertailuluku": 641.4285714285714
+  },
+  {
+    "etunimi": "Seppo",
+    "sukunimi": "Lampi",
+    "puolue": "KD",
+    "aanimaara": 162,
+    "vertailuluku": 637.0
+  },
+  {
+    "etunimi": "Arja",
+    "sukunimi": "Hyyti�",
+    "puolue": "KESK",
+    "aanimaara": 187,
+    "vertailuluku": 632.3571428571429
+  },
+  {
+    "etunimi": "Raimo",
+    "sukunimi": "M�ki-Jaskari",
+    "puolue": "KOK",
+    "aanimaara": 158,
+    "vertailuluku": 605.9230769230769
+  },
+  {
+    "etunimi": "Juhani",
+    "sukunimi": "Hakala",
+    "puolue": "KESK",
+    "aanimaara": 173,
+    "vertailuluku": 590.2
+  },
+  {
+    "etunimi": "Reijo",
+    "sukunimi": "Niemel�",
+    "puolue": "VAS",
+    "aanimaara": 140,
+    "vertailuluku": 582.0
+  },
+  {
+    "etunimi": "Markku",
+    "sukunimi": "Rintam�ki",
+    "puolue": "KOK",
+    "aanimaara": 153,
+    "vertailuluku": 562.6428571428571
+  },
+  {
+    "etunimi": "Markku",
+    "sukunimi": "V�h�-Koivisto",
+    "puolue": "SDP",
+    "aanimaara": 139,
+    "vertailuluku": 561.25
+  },
+  {
+    "etunimi": "Timo",
+    "sukunimi": "Paavola",
+    "puolue": "KESK",
+    "aanimaara": 173,
+    "vertailuluku": 553.3125
+  },
+  {
+    "etunimi": "Hannu",
+    "sukunimi": "Haapasalmi",
+    "puolue": "PS",
+    "aanimaara": 187,
+    "vertailuluku": 532.0
+  },
+  {
+    "etunimi": "Jyrki",
+    "sukunimi": "M�kynen",
+    "puolue": "KOK",
+    "aanimaara": 150,
+    "vertailuluku": 525.1333333333333
+  },
+  {
+    "etunimi": "Asko",
+    "sukunimi": "Ristim�ki",
+    "puolue": "KESK",
+    "aanimaara": 172,
+    "vertailuluku": 520.7647058823529
+  },
+  {
+    "etunimi": "Sirkka",
+    "sukunimi": "Penttil�",
+    "puolue": "SDP",
+    "aanimaara": 127,
+    "vertailuluku": 498.8888888888889
+  },
+  {
+    "etunimi": "Antero",
+    "sukunimi": "Maunula",
+    "puolue": "KOK",
+    "aanimaara": 147,
+    "vertailuluku": 492.3125
+  },
+  {
+    "etunimi": "Hanna",
+    "sukunimi": "M�kynen",
+    "puolue": "KESK",
+    "aanimaara": 171,
+    "vertailuluku": 491.8333333333333
+  },
+  {
+    "etunimi": "Paavo",
+    "sukunimi": "Eloniemi",
+    "puolue": "KESK",
+    "aanimaara": 170,
+    "vertailuluku": 465.94736842105266
+  }
+]

@@ -3,7 +3,7 @@ import java.util.Collections;
 
 public class Vaaliliitto {
     private String puolue;
-    private ArrayList<Ehdokas> ehdokkaat;
+    private ArrayList<Ehdokas> ehdokkaat; 
 
     public Vaaliliitto(String puolue) {
         this.puolue = puolue;
@@ -22,6 +22,7 @@ public class Vaaliliitto {
         ehdokkaat.add(ehdokas);
     }
 
+    // Vertailuluvun laskeminen D'Hondtin menetelmällä
     public void laskeVertailuluvut() {
         int kokonaisAanimaara = 0;
         Collections.sort(ehdokkaat);
