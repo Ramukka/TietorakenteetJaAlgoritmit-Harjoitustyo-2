@@ -51,7 +51,10 @@ puolueet.get(ehdokas.getPuolue()).lisaaEhdokas(ehdokas);
 ### Vertailuluvun laskeminen
 Vertailuluku lasketaan D'Hondtin menetelmällä Vaaliliitto-luokassa, joka pitää sisällään Ehdokas-luokan olioita.
 
-Vertailuluvun laskeminen tapahtuu kaavalla: $$V = \frac{S}{n}$$
+Vertailuluvun laskeminen tapahtuu kaavalla:
+
+$$V = \frac{S}{n}$$
+
 Missä S on vaaliliiton kokonaisäänimäärä ja n on ehdokkaan sijoitus listalla.
 
 Ensin ehdokkaat järjestetään äänimäärän mukaan. Tämä toteutetaan kutsumalla `Collections.sort(ehdokkaat);`, käyttämällä Ehdokas-luokkaan rakennettua compareTo-implementaatiota 
